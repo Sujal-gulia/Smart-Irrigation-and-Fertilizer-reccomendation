@@ -55,8 +55,6 @@ A confusion matrix was plotted to visualize prediction performance across differ
 
 Feature importance was analyzed to understand which factors contributed most to the predictions.
 
-![Alt Text](Screenshot 2025-04-01 220412.png)
-
 Irrigation Calculation Methodology
 The irrigation requirement is calculated based on scientific principles of evapotranspiration (ET₀) and crop water needs:
 
