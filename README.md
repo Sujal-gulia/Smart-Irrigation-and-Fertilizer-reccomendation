@@ -109,8 +109,7 @@ Display daily irrigation needs in mm/day.
 
 Installation & Usage
 Prerequisites
-Python 3.x
-
+Python 3.12.4
 Required libraries: pandas, numpy, scikit-learn, joblib, matplotlib, seaborn, streamlit, requests
 
 Installation
@@ -123,6 +122,7 @@ Install dependencies:
 Running the Application
 Start the Streamlit app:
 !streamlit run app.py
+
 Open your browser at http://localhost:8501.
 
 Follow the instructions on the interface to input parameters and get recommendations.
